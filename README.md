@@ -16,5 +16,5 @@
 | 순서 | 프로젝트명 | 설명 | 기간 | 바로가기 |
 |:---:|:---|:---|:---:|:---:|
 | 1 |mvc Pattern 구현 및 로그 파일 생성|mvc Pattern 구현 및 log4j2와 slf4j를 사용하여 로그 파일을 생성해 보았습니다.| 26.01.05| [🔗 코드 보기](https://github.com/Soooonnn/WooriFISA-practice/tree/main/MvcPatternAndLogFile) |
-| 2 |Stream API를 사용할 때 주의해야 할 점에 대한 고찰 및 구현 | 26.01.09| | [🔗 관련 링크](https://github.com/FISA-Team-n8n/streamapi-performance-test.git) |
+| 2 |Stream API를 사용할 때 주의해야 할 점에 대한 고찰 및 구현 | 26.01.12| | [🔗 관련 링크](https://github.com/FISA-Team-n8n/streamapi-performance-test.git) |
 | 3 |  |  || [🔗 코드 보기](https://github.com/링크) |
