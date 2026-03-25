@@ -20,3 +20,4 @@
 | 3 | n8n을 활용한 경제 문제 만들기 자동화 프로젝트  | n8n을 사용하여 경제 뉴스를 실시간으로 크롤링하고 LLM으로 학습용 퀴즈를 자동 생성하여 DB에 적재합니다. 이후 시각화된 PDF로 변환하여 사용자의 굿노트(이메일)까지 전송하는 전 과정을 자동화하였습니다.   |![n8n](https://img.shields.io/badge/n8n-pink.svg?&style=for-the-badge&logo=n8n&logoColor=black)| [🔗 github](https://github.com/FISA-Team-n8n/n8n_create_problems.git) |
 | 4 | VMware Team Lab  | VMware를 활용하여 기초부터 vSAN까지 구현해보았다.   |![VMware]()| [🔗 github](https://github.com/wooxxo/VMware-TeamLab.git) |
 | 5 | Linux lab  | tree, find, grep, awk, crontab 명령어 및 jq, yq 공부했습니다.  |![Linux]()| [🔗 github](https://github.com/bbky323/FISA-LinuxSearch.git) |
+| 6 | Spring Boot × Jenkins CI/CD Pipeline | Spring Boot × Jenkins CI/CD Pipeline | SpringBoot, Jenkins, Docker |  [🔗 github](https://github.com/Soooonnn/fisaDevOps1.git) |
