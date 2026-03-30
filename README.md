@@ -14,8 +14,7 @@
 교육 과정 중 필요한 부분을 공부하고 정리한 모음입니다.
 | 순서 | 프로젝트명 | 설명 | 기술스택 | 바로가기 |
 |:---:|:---:|:---:|:---:|:---:|
-| 1 |mvc Pattern 구현 및 로그 파일 생성|mvc Pattern 구현 및 log4j2와 slf4j를 사용하여 로그 파일을 생성해 보았습니다.|![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) | [🔗 github](https://github.com/Soooonnn/WooriFISA-practice/tree/main/MvcPatternAndLogFile) |
-| 2 |Docker Healthcheck에 대한 공부 | docker에서 Healthcheck를 어디에서 설정하는지, 설정 후에는 어떻게 확인하는지 등을 공부해 보았습니다. |![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)| [🔗 github](https://github.com/Soooonnn/docker-compose-study.git) |
+| 1 |Docker Healthcheck에 대한 공부 | docker에서 Healthcheck를 어디에서 설정하는지, 설정 후에는 어떻게 확인하는지 등을 공부해 보았습니다. |![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)| [🔗 github](https://github.com/Soooonnn/docker-compose-study.git) |
 
 ## 🧩 미니 프로젝트 (Mini Projects)
 교육 과정 중 진행한 토이 프로젝트 및 실습 과제 모음입니다.
@@ -28,3 +27,4 @@
 | 4 | VMware Team Lab  | VMware를 활용하여 기초부터 vSAN까지 구현해보았다.   |![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)| [🔗 github](https://github.com/wooxxo/VMware-TeamLab.git) |
 | 5 | Linux lab  | tree, find, grep, awk, crontab 명령어 및 jq, yq 공부했습니다.  |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)| [🔗 github](https://github.com/bbky323/FISA-LinuxSearch.git) |
 | 6 | Spring Boot × Jenkins CI/CD Pipeline | Spring Boot × Jenkins CI/CD Pipeline | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  [🔗 github](https://github.com/Soooonnn/fisaDevOps1.git) |
+| 7 | Docker image Optimization | Docker 이미지 최적화 기법을 단계별로 적용하고, 각 기법이 이미지 크기와 보안에 미치는 영향을 실험한 프로젝트입니다. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  [🔗 github](https://github.com/Soooonnn/fisaDevOps1.git) |
