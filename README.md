@@ -15,6 +15,7 @@
 | 순서 | 프로젝트명 | 설명 | 기술스택 | 바로가기 |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 |Docker Healthcheck에 대한 공부 | docker에서 Healthcheck를 어디에서 설정하는지, 설정 후에는 어떻게 확인하는지 등을 공부해 보았습니다. |![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)| [🔗 github](https://github.com/Soooonnn/docker-compose-study.git) |
+| 2 |Kubernetes DevSevOps | Kubernetes에서 DB를 이중화하고 configmap과 secret을 통해 보안을 강화하는 공부를 진행했습니다. |![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)| [🔗 github](https://github.com/Soooonnn/KubernetesDevSecOps.git) |
 
 ## 🧩 미니 프로젝트 (Mini Projects)
 교육 과정 중 진행한 토이 프로젝트 및 실습 과제 모음입니다.
